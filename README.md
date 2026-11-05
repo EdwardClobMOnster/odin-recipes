@@ -1,1 +1,2 @@
 # odin-recipes
+The project displays the skills learned from the odin project. For example, working in the terminal, git commands, html basics, and best practices. This will all be executed by building a page in html a recipe page of my favorite food, cheesburgers. Some steps like "working in the terminal" is difficult to display. However, will be shown in interviews.  
